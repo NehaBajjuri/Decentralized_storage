@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+    background-color: #282c34;
+}
+
+.App-header {
+  
+  padding: 20px;
+  color: white;
+}
+
+.upload-section {
+  margin: 40px;
+}
+
+.file-list ul {
+  list-style-type: none;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  color: #282c34;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
